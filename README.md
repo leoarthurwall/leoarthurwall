@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @leoarthurwall
-- 👀 I’m interested in coding
-- 🌱 I’m currently studing full stack development with school of code
+- 👀 I’m interested in UX/UI Design and Full Stack Development
+- 🌱 I’m a graduate full stack developer of the School of Code
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me: leowall93@gmail.com
+- 📫 Reach me at: 
+  - Email: leowall93@gmail.com
+  - Portfolio: https://leowall.netlify.app/
+  - LinkedIn: https://www.linkedin.com/in/leo-wall/
 
 <!---
 leoarthurwall/leoarthurwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
