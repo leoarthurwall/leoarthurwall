@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @leoarthurwall
-- 👀 I’m interested in UX/UI Design and Full Stack Development
-- 🌱 I’m a graduate full stack developer of the School of Code
-- 💞️ I’m looking to collaborate on future projects
+- :computer: I’m a junior UX/UI Designer and Full Stack Developer
+- :heart: I'm passionate about solving real-world user problems
+- :man_student: I’m a School of Code graduate in Full Stack Development & a Bath Spa University graduate in Creative Computing
+- 👀 I’m looking to connect with hiring partners and land my first role in tech 
 - 📫 Reach me at: 
   - Email: leowall93@gmail.com
   - Portfolio: https://leowall.netlify.app/
@@ -11,3 +12,4 @@
 leoarthurwall/leoarthurwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
