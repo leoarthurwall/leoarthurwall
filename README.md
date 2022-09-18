@@ -14,7 +14,7 @@ Let's connect:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)][3]
 
 
-[1]:leowall93@gmail.com
+[1]:mailto:leowall93@gmail.com
 [2]:https://www.linkedin.com/in/leo-wall/
 [3]:https://leowall.netlify.app/
 <!---
