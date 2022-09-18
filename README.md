@@ -1,5 +1,6 @@
 ![githubBanner](https://user-images.githubusercontent.com/99083396/190916189-5652cd94-ff54-4d58-affa-b86d56c476db.png)
 
+<div align="center" display="flex" flex-direction="row">
 
 - 👋 Hi, I’m Leo.
 - :computer: I’m a junior UX/UI Designer and Full Stack Developer.
@@ -7,16 +8,21 @@
 - :man_student: I’m a School of Code graduate in Full Stack Development & a Bath Spa University graduate in Creative Computing.
 - 👀 I’m looking to connect with hiring partners and land my first role in tech.
 
-Let's connect:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)][3]
+<div align="center" display="flex" flex-direction="row">
+  
+#### Let's connect
+
+<a href="https://mailto:leowall93@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />  <a href="https://www.linkedin.com/in/leo-wall/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />  <a href="https://leowall.netlify.app" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkedin" />   
 
 
-[1]:mailto:leowall93@gmail.com
-[2]:https://www.linkedin.com/in/leo-wall/
-[3]:https://leowall.netlify.app/
+
+---
+
+### Toolbox
+
+
+---
 
 ### Stats
 
