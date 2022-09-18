@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @leoarthurwall
+![githubBanner](https://user-images.githubusercontent.com/99083396/190916189-5652cd94-ff54-4d58-affa-b86d56c476db.png)
+
+
+- 👋 Hi, I’m Leo
 - :computer: I’m a junior UX/UI Designer and Full Stack Developer
 - :heart: I'm passionate about solving real-world user problems, expressing my creative side, and collaborating with people.
 - :man_student: I’m a School of Code graduate in Full Stack Development & a Bath Spa University graduate in Creative Computing
