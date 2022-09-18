@@ -17,6 +17,15 @@ Let's connect:
 [1]:mailto:leowall93@gmail.com
 [2]:https://www.linkedin.com/in/leo-wall/
 [3]:https://leowall.netlify.app/
+
+### Stats
+
+![leoarthurwall's Stats](https://github-readme-stats.vercel.app/api?username=leoarthurwall&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![leoarthurwall's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoarthurwall&theme=vue-dark&hide_border=true)
+
+![leoarthurwall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoarthurwall&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!---
 leoarthurwall/leoarthurwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
