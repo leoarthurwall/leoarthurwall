@@ -35,6 +35,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/>
+<img src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_512.png" alt="cypress" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/auth0-logo-png-transparent.png" alt="auth0" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/aws-3215369-2673787.png" alt="aws" width="40" height="40"/>
+<img src="https://mui.com/static/logo.png" alt="mui icons" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/>
+
+
+
 
 ---
 
