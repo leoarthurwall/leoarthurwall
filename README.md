@@ -2,7 +2,7 @@
 
 <div align="center" display="flex" flex-direction="row">
 
-👋 **Hi, I’m Leo.**
+### 👋 **Hi, I’m Leo.**
   
 :computer: I’m a junior UX/UI Designer and Full Stack Developer.
   
@@ -15,7 +15,7 @@
   
 ---
 
-### Toolbox
+### 	:toolbox: Toolbox
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -38,14 +38,14 @@
 
 ---
 
-### Stats
+### :dart: Stats
 
 ![leoarthurwall's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoarthurwall&theme=vue-dark&hide_border=true)
 <!---https://gh-stats-gen.vercel.app/--->
 
 ---
   
-### Let's connect
+### :globe_with_meridians: Let's connect
 
 <a href="https://mailto:leowall93@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />  <a href="https://www.linkedin.com/in/leo-wall/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />  <a href="https://leowall.netlify.app" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkedin" />   
 
