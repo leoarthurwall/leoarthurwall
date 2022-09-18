@@ -7,10 +7,11 @@
 - :man_student: I’m a School of Code graduate in Full Stack Development & a Bath Spa University graduate in Creative Computing
 - 👀 I’m looking to connect with hiring partners and land my first role in tech 
 - 📫 Reach me at: 
-  - Email: leowall93@gmail.com
+  - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1]
   - Portfolio: https://leowall.netlify.app/
   - LinkedIn: https://www.linkedin.com/in/leo-wall/
 
+[1]:leowall93@gmail.com
 <!---
 leoarthurwall/leoarthurwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
