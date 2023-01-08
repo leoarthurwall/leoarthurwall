@@ -4,7 +4,7 @@
 
 ### 👋 **Hi, I’m Leo.**
   
-:computer: I’m a junior UX/UI Designer and Full Stack Developer.
+:computer: I’m a Frontend Developer.
   
 :man_student: I’m a School of Code graduate in Full Stack Development & a Bath Spa University graduate in Creative Computing.
   
